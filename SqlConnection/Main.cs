@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SqlConnection
+namespace SqlConnections
 {
     public partial class Main : Form
     {

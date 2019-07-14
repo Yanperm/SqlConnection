@@ -1,4 +1,4 @@
-﻿namespace SqlConnection
+﻿namespace SqlConnections
 {
     partial class Main
     {
